@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="73.376106mm"
+   height="93.642105mm"
+   viewBox="0 0 73.376106 93.642105"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="ecmascript6.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="14.107566"
+     inkscape:cy="215.35584"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:window-width="3840"
+     inkscape:window-height="2063"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.657079,-142.96801)">
+    <path
+       id="path4500"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#d6ba33;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 89.863839,224.52306 5.858624,-63.68898 c -20.918216,0 -41.836437,0 -62.754658,0 l 5.858632,63.68898 25.5187,7.08706 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#fae12e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 64.345137,165.83748 h 25.390607 l -4.677217,54.52298 -20.71339,6.01356"
+       id="path4505"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17953396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 169.17383,657.73633 13.82031,150.24609 60.19922,16.71875 60.20117,-16.71875 8.43164,-91.66992 H 204.42969 l -2.9043,-28.78906 h 112.94922 l 2.74023,-29.78711 z m 37.78711,88.44336 h 72.42383 l -3.53125,38.61523 -32.66016,9.07031 -32.6582,-9.07031 z"
+       transform="scale(0.26458333)"
+       id="path4503"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4517"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.42644978px;line-height:1.29442179px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.06472109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.982126,151.66318 q 0.273042,0 0.449002,-0.0121 0.175961,-0.0121 0.30338,-0.0546 0.12742,-0.0485 0.194164,-0.0971 0.06674,-0.0485 0.103149,-0.16383 0.04247,-0.11528 0.05461,-0.21843 0.01214,-0.10315 0.02427,-0.30338 0.05461,-0.0546 0.206298,-0.0546 0.15169,0 0.206299,0.0546 -0.02427,0.74025 -0.02427,1.07396 0,0.21844 0.02427,1.09217 -0.05461,0.0546 -0.206299,0.0546 -0.15169,0 -0.206298,-0.0546 -0.01214,-0.2063 -0.03034,-0.30338 -0.0182,-0.10315 -0.07888,-0.23057 -0.06068,-0.12742 -0.175961,-0.18203 -0.115284,-0.0546 -0.32765,-0.091 -0.206299,-0.0425 -0.515746,-0.0425 H 34.85355 v 2.99739 q 0,0.24877 0.115284,0.3944 0.121352,0.13955 0.327651,0.13955 h 1.692861 q 0.655301,0 1.031492,-0.4308 0.382259,-0.43686 0.594625,-1.19532 0.224501,-0.0607 0.436867,0.0607 -0.15169,0.98902 -0.461137,2.07512 -0.995087,-0.0243 -1.589712,-0.0243 h -2.669745 q -1.01329,0.0121 -1.62005,0.0243 -0.05461,-0.0546 -0.05461,-0.20023 0,-0.15169 0.05461,-0.2063 0.248772,-0.0121 0.382259,-0.0243 0.139555,-0.0121 0.27911,-0.0546 0.145622,-0.0485 0.206298,-0.11528 0.06674,-0.0667 0.121352,-0.19417 0.06068,-0.12741 0.07888,-0.30338 0.0182,-0.17596 0.0182,-0.44293 v -4.9815 q 0,-0.31552 -0.03641,-0.50968 -0.03034,-0.19416 -0.09101,-0.31552 -0.06068,-0.12742 -0.212366,-0.18809 -0.145622,-0.0607 -0.297313,-0.0789 -0.15169,-0.0243 -0.449002,-0.0364 -0.05461,-0.0546 -0.05461,-0.20629 0,-0.15169 0.05461,-0.2063 l 1.607915,0.0243 h 3.167288 q 0.321583,0 0.60676,-0.0485 0.04854,0 0.04854,0.0364 0.02427,0.0849 0.12742,0.77059 0.109217,0.68564 0.15169,1.03149 -0.194163,0.0971 -0.412597,0.0607 -0.07888,-0.25484 -0.133487,-0.40047 -0.05461,-0.14562 -0.145623,-0.32158 -0.08495,-0.18203 -0.17596,-0.27911 -0.09101,-0.0971 -0.230569,-0.18809 -0.133488,-0.091 -0.309448,-0.12742 -0.17596,-0.0364 -0.406529,-0.0364 h -1.310602 q -0.212367,0 -0.327651,0.15776 -0.115284,0.15169 -0.115284,0.38833 v 2.48771 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4519"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.42644978px;line-height:1.29442179px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.06472109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 43.845738,156.26849 q -0.776653,0 -1.438022,-0.2245 -0.655301,-0.23057 -1.116438,-0.61889 -0.461138,-0.38833 -0.788789,-0.90408 -0.321583,-0.52181 -0.47934,-1.09823 -0.15169,-0.57643 -0.15169,-1.18925 0,-0.96475 0.345853,-1.79601 0.345853,-0.83733 0.970816,-1.41375 1.152845,-1.05577 2.669745,-1.05577 0.667437,0 1.201386,0.12742 0.533949,0.12742 0.916208,0.27304 0.382259,0.13956 0.60676,0.16383 0.224501,1.40768 0.273042,1.92343 -0.230569,0.12135 -0.412597,0.0607 -0.133487,-0.43687 -0.327651,-0.78273 -0.188095,-0.34585 -0.503611,-0.6553 -0.309447,-0.30944 -0.788788,-0.47934 -0.47934,-0.16989 -1.098236,-0.16989 -0.503611,0 -1.019357,0.27911 -0.515746,0.27304 -0.964749,0.82519 -0.740247,0.91014 -0.740247,2.46345 0,0.55215 0.109216,1.0861 0.109217,0.53395 0.333719,1.02543 0.230568,0.4854 0.558219,0.85553 0.327651,0.36405 0.800924,0.58249 0.473273,0.21843 1.031492,0.21843 0.867667,0 1.547239,-0.31551 0.679571,-0.32159 1.334872,-1.04363 0.182028,0 0.285177,0.18809 -0.63103,0.8252 -1.438021,1.24993 -0.806992,0.42473 -1.717132,0.42473 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4521"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.42644978px;line-height:1.29442179px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.06472109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55.677563,154.70305 -0.315515,-5.19387 h -0.03034 l -2.791097,6.57728 q -0.06674,0.13349 -0.175961,0.13349 -0.133487,0 -0.188095,-0.13349 l -2.572664,-6.44986 h -0.02427 l -0.473273,4.9815 q -0.05461,0.58249 0.09708,0.8434 0.15169,0.26091 0.728113,0.30338 0.05461,0.0546 0.05461,0.2063 0,0.14562 -0.05461,0.20023 -0.740248,-0.0243 -1.171048,-0.0243 -0.32765,0 -1.067898,0.0243 -0.05461,-0.0546 -0.05461,-0.20023 0,-0.15169 0.05461,-0.2063 0.509679,-0.0425 0.685639,-0.28518 0.182029,-0.2427 0.242705,-0.83732 l 0.497543,-5.12106 q 0.02427,-0.25484 0.03034,-0.3944 0.0061,-0.14562 -0.03034,-0.26697 -0.03034,-0.12135 -0.06674,-0.16989 -0.03641,-0.0546 -0.163825,-0.091 -0.12742,-0.0425 -0.242704,-0.0546 -0.115284,-0.0121 -0.370124,-0.0243 -0.05461,-0.0546 -0.05461,-0.20629 0,-0.15169 0.05461,-0.2063 l 1.802078,0.0243 2.548393,6.3103 q 0.07281,0.16383 0.09708,0.16383 0.04247,0 0.115284,-0.17596 l 2.63334,-6.29817 1.626117,-0.0243 q 0.05461,0.0546 0.05461,0.2063 0,0.15169 -0.05461,0.20629 -0.321583,0.0182 -0.497543,0.0667 -0.169893,0.0425 -0.260907,0.14562 -0.09101,0.0971 -0.09708,0.26091 -0.0061,0.16382 0.0061,0.41866 l 0.370124,5.23028 q 0.02427,0.38225 0.0364,0.44293 0.01214,0.14562 0.05461,0.29731 0.04854,0.14563 0.09101,0.20023 0.04854,0.0485 0.163825,0.10315 0.121352,0.0485 0.242704,0.0607 0.12742,0.006 0.364056,0.0182 0.05461,0.0546 0.05461,0.2063 0,0.14562 -0.05461,0.20023 -0.825194,-0.0243 -1.353075,-0.0243 -0.163825,0 -1.328805,0.0243 -0.05461,-0.0546 -0.05461,-0.20023 0,-0.15169 0.05461,-0.2063 0.182028,-0.006 0.266974,-0.0121 0.09101,-0.006 0.200231,-0.0303 0.115285,-0.0243 0.15169,-0.0425 0.04247,-0.0182 0.09708,-0.0789 0.05461,-0.0667 0.06068,-0.12742 0.01214,-0.0607 0.02427,-0.1881 0.01214,-0.12742 0.0061,-0.24877 -0.0061,-0.12135 -0.0182,-0.33372 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4523"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.42644978px;line-height:1.29442179px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.06472109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.15054,152.62793 h 2.196472 l -1.16498,-3.37965 h -0.07888 l -1.268128,3.21583 q -0.03641,0.091 0.0364,0.12742 0.07281,0.0364 0.27911,0.0364 z m -1.347008,2.53626 q -0.0364,0.091 -0.04247,0.16989 0,0.0789 0.03034,0.13956 0.03034,0.0546 0.07281,0.0971 0.04854,0.0425 0.121352,0.0728 0.07888,0.0303 0.145623,0.0546 0.07281,0.0182 0.17596,0.0364 0.103149,0.0121 0.175961,0.0182 0.07888,0.006 0.182028,0.0121 0.05461,0.0546 0.05461,0.2063 0,0.14562 -0.05461,0.20023 -0.922276,-0.0243 -1.589712,-0.0243 -0.188096,0 -1.110371,0.0243 -0.05461,-0.0546 -0.05461,-0.20023 0,-0.15169 0.05461,-0.2063 0.473273,-0.0303 0.746315,-0.19416 0.273042,-0.16383 0.497543,-0.69171 l 2.821435,-6.66223 q 0.25484,0 0.685639,-0.24877 l 2.560529,7.11123 q 0.05461,0.15169 0.121352,0.26698 0.06674,0.10921 0.169892,0.18203 l 0.163826,0.11528 q 0.06674,0.0425 0.218433,0.0667 0.15169,0.0243 0.200231,0.0303 0.05461,0.006 0.242704,0.0243 0.05461,0.0546 0.05461,0.2063 0,0.14562 -0.05461,0.20023 -0.922275,-0.0243 -1.419819,-0.0243 -0.703841,0 -1.626117,0.0243 -0.05461,-0.0546 -0.05461,-0.20023 0,-0.15169 0.05461,-0.2063 0.07281,-0.006 0.188096,-0.0121 0.121352,-0.006 0.188095,-0.0121 l 0.163826,-0.0182 q 0.09708,-0.006 0.145622,-0.0182 0.04854,-0.0182 0.115284,-0.0425 0.06674,-0.0243 0.09101,-0.0546 0.03034,-0.0364 0.04854,-0.0849 0.02427,-0.0485 0.0182,-0.11529 -0.0061,-0.0667 -0.03641,-0.15169 l -0.722045,-2.10546 H 60.92603 q -0.218434,0 -0.303381,0.0425 -0.08495,0.0425 -0.133487,0.16989 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4525"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.42644978px;line-height:1.29442179px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.06472109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.422989,148.3078 q 0.175961,0.91014 0.224502,1.60185 -0.09101,0.0728 -0.40653,0.0728 -0.08495,-0.27911 -0.169893,-0.48541 -0.08495,-0.2063 -0.236636,-0.42473 -0.15169,-0.21844 -0.339786,-0.35799 -0.182028,-0.13956 -0.461138,-0.23057 -0.279109,-0.091 -0.63103,-0.091 -0.540017,0 -0.952614,0.4308 -0.406529,0.42474 -0.406529,0.95869 0,0.29124 0.133487,0.55215 0.139555,0.25484 0.321583,0.4308 0.182028,0.16989 0.473273,0.33978 0.291245,0.16383 0.491476,0.24877 0.206298,0.0849 0.497543,0.20024 0.297313,0.10921 0.376192,0.14562 0.370123,0.15776 0.649233,0.33978 0.285177,0.17596 0.533949,0.43687 0.248772,0.25484 0.382259,0.60676 0.133487,0.35192 0.133487,0.77665 0,0.58856 -0.315515,1.12858 -0.309448,0.53395 -0.849464,0.87373 -0.655301,0.40653 -1.535104,0.40653 -0.594625,0 -1.237791,-0.13955 -0.643166,-0.14562 -0.995086,-0.14562 -0.115285,-0.46721 -0.163826,-0.8252 -0.04854,-0.35799 -0.08495,-1.06183 0.200231,-0.10315 0.406529,-0.0364 0.388327,1.76567 2.178269,1.76567 0.746316,0 1.146777,-0.38833 0.40653,-0.39439 0.40653,-1.14071 0,-0.26091 -0.06068,-0.47934 -0.05461,-0.2245 -0.145623,-0.38226 -0.09101,-0.16382 -0.236636,-0.30945 -0.145623,-0.14562 -0.285178,-0.23663 -0.133487,-0.091 -0.32765,-0.1881 -0.194163,-0.0971 -0.333718,-0.15169 l -0.345854,-0.12742 q -0.200231,-0.0789 -0.309447,-0.12742 -0.394395,-0.16989 -0.691707,-0.35799 -0.297313,-0.18809 -0.564287,-0.44293 -0.260907,-0.26091 -0.400462,-0.60676 -0.139555,-0.34585 -0.139555,-0.76452 0,-0.95868 0.691707,-1.5533 0.697774,-0.6007 1.674658,-0.6007 0.533949,0 0.837329,0.0607 0.309448,0.0607 0.55822,0.15169 0.248772,0.091 0.509678,0.12742 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4527"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.42644978px;line-height:1.29442179px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.06472109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.484525,155.01857 q -0.297313,0.49147 -0.643166,0.77665 -0.339786,0.28518 -0.661369,0.37619 -0.315515,0.0971 -0.722045,0.0971 -1.152844,0 -1.808145,-0.74024 -0.649234,-0.74025 -0.649234,-1.96591 0,-0.6371 0.224502,-1.18925 0.224501,-0.55215 0.588557,-0.91014 0.364056,-0.36405 0.813059,-0.56429 0.45507,-0.20629 0.922276,-0.20629 0.879802,0 1.38948,0.32765 0.509679,0.32765 0.509679,0.84946 0,0.26091 -0.194163,0.40653 -0.188096,0.14562 -0.412597,0.14562 -0.424732,0 -0.473273,-0.449 -0.02427,-0.19416 -0.06068,-0.32158 -0.03641,-0.13349 -0.12742,-0.26698 -0.08495,-0.13955 -0.260907,-0.2063 -0.17596,-0.0728 -0.436867,-0.0728 -0.624963,0 -1.019357,0.58856 -0.394394,0.58856 -0.394394,1.59578 0,1.0679 0.47934,1.7232 0.479341,0.64923 1.183183,0.64923 0.855532,0 1.49263,-0.81912 0.194163,0.0243 0.260907,0.17596 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4529"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.42644978px;line-height:1.29442179px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.06472109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.081459,151.69959 q 0,0.0667 0.0182,0.091 0.02427,0.0182 0.07888,-0.0667 0.248772,-0.42473 0.612828,-0.72811 0.364056,-0.30338 0.764518,-0.30338 0.357989,0 0.552152,0.19416 0.194163,0.18809 0.194163,0.40046 0,0.23664 -0.182028,0.4308 -0.17596,0.19416 -0.400462,0.19416 -0.115284,0 -0.206298,-0.0485 -0.08495,-0.0546 -0.194163,-0.18202 l -0.109217,-0.13349 q -0.08495,-0.0849 -0.260907,-0.0849 -0.145623,0 -0.570355,0.60676 -0.297312,0.44294 -0.297312,0.83126 v 1.72927 q 0,0.26697 0.01214,0.43687 0.01214,0.16989 0.06068,0.30338 0.05461,0.12742 0.109217,0.19416 0.05461,0.0607 0.188095,0.10922 0.139555,0.0425 0.266975,0.0607 0.12742,0.0121 0.382259,0.0303 0.05461,0.0546 0.05461,0.2063 0,0.14562 -0.05461,0.20023 -1.067898,-0.0243 -1.504766,-0.0243 -0.376191,0 -1.419818,0.0243 -0.05461,-0.0546 -0.05461,-0.20023 0,-0.15169 0.05461,-0.2063 0.32765,-0.0182 0.473273,-0.0485 0.15169,-0.0303 0.266974,-0.15169 0.121352,-0.12135 0.15169,-0.32765 0.03034,-0.2063 0.03034,-0.60676 v -2.42097 q 0,-0.27911 -0.03034,-0.42474 -0.02427,-0.15169 -0.12742,-0.2427 -0.103149,-0.091 -0.236636,-0.12135 -0.12742,-0.0303 -0.412597,-0.0546 -0.0182,-0.0607 -0.03034,-0.17596 -0.01214,-0.11529 0.0061,-0.17596 0.995086,-0.12742 1.565441,-0.35799 0.103149,0 0.145622,0.0971 0.10315,0.21844 0.10315,0.94655 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4531"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.42644978px;line-height:1.29442179px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.06472109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.582465,148.70219 q 0,-0.21843 0.212366,-0.40653 0.212366,-0.18809 0.436868,-0.18809 0.242704,0 0.418664,0.2063 0.175961,0.20023 0.175961,0.43686 0,0.2063 -0.200231,0.40653 -0.194164,0.19417 -0.442935,0.19417 -0.224501,0 -0.412597,-0.20024 -0.188096,-0.20629 -0.188096,-0.449 z m 1.134642,5.92805 q 0,0.26697 0.0061,0.43687 0.01214,0.16989 0.05461,0.30338 0.04854,0.13348 0.09708,0.20023 0.04854,0.0607 0.163826,0.10922 0.121352,0.0425 0.236636,0.0607 0.115285,0.0121 0.333718,0.0243 0.05461,0.0546 0.05461,0.2063 0,0.14562 -0.05461,0.20023 -1.067898,-0.0243 -1.377345,-0.0243 -0.351921,0 -1.395549,0.0243 -0.05461,-0.0546 -0.05461,-0.20023 0,-0.15169 0.05461,-0.2063 0.224501,-0.0182 0.333718,-0.0303 0.109217,-0.0182 0.230569,-0.0607 0.12742,-0.0485 0.169893,-0.10922 0.04854,-0.0667 0.09708,-0.19416 0.04854,-0.13349 0.05461,-0.30338 0.01214,-0.1699 0.01214,-0.43687 v -2.42097 q 0,-0.27911 -0.03034,-0.42474 -0.02427,-0.14562 -0.127419,-0.23663 -0.09708,-0.0971 -0.236637,-0.12742 -0.133487,-0.0303 -0.412597,-0.0546 -0.0182,-0.0607 -0.03034,-0.17596 -0.01214,-0.11529 0.0061,-0.17596 1.177115,-0.15169 1.698928,-0.35799 0.163826,0 0.163826,0.085 -0.04854,0.79485 -0.04854,1.41375 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4533"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.42644978px;line-height:1.29442179px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.06472109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.011817,152.03331 q -0.115285,0.13348 -0.157758,0.24877 -0.03641,0.10921 -0.03641,0.29731 v 2.26322 q 0,0.32765 0.04854,0.449 0.05461,0.12135 0.248772,0.29731 0.15169,0.13349 0.406529,0.20023 0.260907,0.0607 0.473273,0.0607 0.497544,0 0.855532,-0.2063 0.357989,-0.21237 0.546084,-0.55822 0.188096,-0.35192 0.266975,-0.72811 0.08495,-0.37619 0.08495,-0.79486 0,-1.02542 -0.436867,-1.66252 -0.4308,-0.6371 -1.043628,-0.6371 -0.266974,0 -0.637098,0.23057 -0.370124,0.23057 -0.618895,0.54002 z m -0.194164,-0.46114 q 0,0.0667 0.03641,0.0789 0.0364,0.0121 0.06068,-0.0243 0.370124,-0.4308 0.819126,-0.67957 0.45507,-0.25484 0.88587,-0.25484 0.612828,0 1.122507,0.35798 0.515746,0.35799 0.794856,0.94048 0.279109,0.58249 0.279109,1.23779 0,1.45016 -0.916208,2.34817 -0.728112,0.6917 -1.832416,0.6917 -0.60676,0 -1.080033,-0.18809 -0.09708,-0.0485 -0.133487,-0.0364 -0.03641,0.0121 -0.03641,0.12742 v 1.34094 q 0,0.27304 0.01213,0.43687 0.01214,0.16989 0.06068,0.30338 0.04854,0.13349 0.10315,0.19416 0.05461,0.0667 0.188095,0.10922 0.139555,0.0485 0.266975,0.0607 0.133487,0.0182 0.388326,0.0303 0.05461,0.0546 0.05461,0.20023 0,0.15169 -0.05461,0.2063 -1.067898,-0.0243 -1.504765,-0.0243 -0.351921,0 -1.395548,0.0243 -0.05461,-0.0546 -0.05461,-0.2063 0,-0.14562 0.05461,-0.20023 0.321582,-0.0182 0.467205,-0.0485 0.145622,-0.0243 0.260907,-0.14562 0.115284,-0.12135 0.139555,-0.33372 0.03034,-0.2063 0.03034,-0.60676 v -5.30308 q 0,-0.27911 -0.03034,-0.42474 -0.02427,-0.15169 -0.12742,-0.2427 -0.103149,-0.091 -0.236636,-0.12135 -0.12742,-0.0303 -0.412597,-0.0546 -0.0182,-0.0607 -0.03034,-0.17596 -0.01214,-0.11529 0.0061,-0.17596 0.995087,-0.12742 1.565442,-0.35799 0.103149,0 0.145622,0.0971 0.103149,0.21844 0.103149,0.81913 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4535"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.42644978px;line-height:1.29442179px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.06472109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 92.829493,150.81372 h 0.570354 q 0,-0.47328 -0.0061,-0.78272 -0.0061,-0.30945 -0.01214,-0.40046 -0.0061,-0.0971 -0.01214,-0.15776 -0.0061,-0.0607 -0.0061,-0.0971 0,-0.0546 0.06068,-0.091 0.06674,-0.0364 0.206298,-0.0728 0.139555,-0.0425 0.206299,-0.0728 0.07281,-0.0303 0.188095,-0.091 0.115285,-0.0607 0.188096,-0.0971 0.07888,-0.0364 0.121352,-0.0364 0.09708,0 0.09708,0.10922 -0.04854,0.50361 -0.04854,1.3106 v 0.47934 h 1.49263 q 0.09708,0 0.09708,0.0789 v 0.24877 q 0,0.0728 -0.09708,0.11528 -0.09101,0.0425 -0.200231,0.0425 h -1.292399 v 3.14301 q 0,0.61283 0.08495,0.87981 0.09101,0.26697 0.327651,0.26697 0.564287,0 1.019357,-0.35192 0.182028,0.0182 0.218434,0.21237 -0.357989,0.40046 -0.800924,0.61282 -0.436867,0.2063 -0.873735,0.2063 -0.958681,0 -0.958681,-1.22565 v -3.74371 h -0.73418 q -0.06068,0 -0.06068,-0.0728 v -0.16382 q 0,-0.091 0.05461,-0.16989 0.05461,-0.0789 0.169893,-0.0789 z" />
+  </g>
+</svg>
